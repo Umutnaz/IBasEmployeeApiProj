@@ -103,5 +103,6 @@ namespace IBASEmployeeService.Controllers
             return result;
         }
         //how to i postman: http://localhost:5194/api/Employee/GetByDepartment/IT
+        //opstil i /side/port/(ln7) routenavn som er "api"/hvilken controller/endpoint/input
     }
 }
